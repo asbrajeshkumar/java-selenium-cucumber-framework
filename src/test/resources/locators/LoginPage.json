@@ -1,0 +1,7 @@
+{
+  "LoginPage": {
+    "username": "//input[@id='username']",
+    "password": "//input[@id='password']",
+    "submit": "//button[@type='submit']"
+  }
+}
